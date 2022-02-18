@@ -8,9 +8,9 @@ Recordar que el video debe ser público para ser visto por el profesor
 Bases-de-Datos-2/Plantilla-de-proyectos
 
 
-![Diagram](http://jgraph.github.io/drawio-github/diagram.png)
+![Diagram](https://bases-de-datos-2.github.io/Plantilla-de-proyectos/EjerciciosVarios-Page-4.drawio.png)
 
-<a href="http://jgraph.github.io/drawio-github/edit-diagram.html?repo=Bases-de-Datos-2%2FPlantilla-de-proyectos&path=Ejercicios%20varios-Page-4.drawio.png" target="_blank">Edit</a> | 
+<a href="https://bases-de-datos-2.github.io/Plantilla-de-proyectos/edit-diagram.html?repo=Bases-de-Datos-2%2FPlantilla-de-proyectos&path=Ejercicios%20varios-Page-4.drawio.png" target="_blank">Edit</a> | 
 <a href="https://app.diagrams.net/#G1N3xc5c4VGT1xPjbplvTEnxJIpkSSst2i" target="_blank">Edit As New</a> | 
 <a href="https://app.diagrams.net/#Hjgraph%2Fdrawio-github%2Fmaster%2Fdiagram.png" target="_blank">Edit in diagrams.net</a>
 
