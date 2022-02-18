@@ -6,7 +6,7 @@
 ### Enlace del video:
 Recordar que el video debe ser público para ser visto por el profesor
 
-![Alt text here](images/someimage.png)
+![Alt text here](images/Ejercicios varios-Page-4.drawio.png)
 
 
 ```mermaid
