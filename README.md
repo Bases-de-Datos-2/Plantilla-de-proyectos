@@ -6,6 +6,9 @@
 ### Enlace del video:
 Recordar que el video debe ser público para ser visto por el profesor
 
+![Alt text here](images/someimage.png)
+
+
 ```mermaid
   graph TD;
       A-->B;
